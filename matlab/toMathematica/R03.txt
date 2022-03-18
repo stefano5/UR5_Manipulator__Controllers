@@ -1,0 +1,1 @@
+[cos(q1)*cos(q2)*cos(q3) - cos(q1)*sin(q2)*sin(q3), -sin(q1), cos(q1)*cos(q2)*sin(q3) + cos(q1)*cos(q3)*sin(q2); cos(q2)*cos(q3)*sin(q1) - sin(q1)*sin(q2)*sin(q3), cos(q1), cos(q2)*sin(q1)*sin(q3) + cos(q3)*sin(q1)*sin(q2); - cos(q2)*sin(q3) - cos(q3)*sin(q2), 0, cos(q2)*cos(q3) - sin(q2)*sin(q3)]
