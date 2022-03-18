@@ -1,4 +1,4 @@
-path= 'C:\Users\stefa\Desktop\Robotica\Manipulator - non linear control\results_simulation/';
+path= '../results_simulation/';
 
 
 

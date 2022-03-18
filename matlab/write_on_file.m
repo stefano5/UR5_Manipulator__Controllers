@@ -1,4 +1,4 @@
-path= 'C:\Users\stefa\Desktop\Robotica\Manipulator - non linear control\results_simulation/';
+path= '../results_simulation/';
 
 writematrix(out.q.Data(:,1), path + "q1.dat")
 writematrix(out.q.Data(:,2), path + "q2.dat")
