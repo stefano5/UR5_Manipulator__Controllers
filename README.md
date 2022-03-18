@@ -1,3 +1,17 @@
+MATLAB dependencies are: the Robotics Toolbox created by P. Corke.
+
+P.I. Corke, Robotics, Vision & Control: Fundamental Algorithms in MATLAB. Second edition. Springer, 2017. ISBN 978-3-319-54413-7.
+
+To install this tool see: https://petercorke.com/toolboxes/robotics-toolbox/  (I suggest you the" Install from shared MATLAB Drive folder")
+
+
+
+NB: if you don't install the Robotics Toolbox these matlab scripts won't work!
+
+
+
+
+
 Different control tecniques were developed. See "Manipulator UR5 presentation.pptx".
 
 Inside the 'matlab' folder there are three simulink files:
@@ -7,7 +21,6 @@ Inside the 'matlab' folder there are three simulink files:
 
 To run one of these just open it and click on the run button and wait until the simulation ends (about 30 seconds). 
 Then you will see the meaningful plots.
-
 
 
 
